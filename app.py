@@ -9,7 +9,6 @@ from datetime import datetime, timedelta
 st.set_page_config(page_title="Growth Mindset Mastery", page_icon="🌱", layout="wide")
 
 # Custom CSS
-# Custom CSS
 st.markdown("""
     <style>
     .main {
